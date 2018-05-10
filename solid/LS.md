@@ -1,0 +1,3 @@
+## Liskov’s Substitution Principle
+
+some information...
