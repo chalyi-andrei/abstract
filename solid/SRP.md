@@ -1,0 +1,3 @@
+## Single Responsibility Principle
+
+some information...
