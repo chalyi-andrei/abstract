@@ -1,6 +1,6 @@
 ## Single Responsibility Principle
 
-![alt text](./assets/sp.jpg "Single Responsibility Principle image")
+![Single Responsibility Principle image](./assets/sr.jpg)
 
 
 > A class should have one and only one reason to change, meaning that a class should only have one job.
