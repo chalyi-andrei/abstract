@@ -1,5 +1,8 @@
 ## Single Responsibility Principle
 
+![alt text](./assets/sp.jpg "Single Responsibility Principle image")
+
+
 > A class should have one and only one reason to change, meaning that a class should only have one job.
 
 Now I want to give one Javascript example on this principle:
