@@ -29,7 +29,7 @@ Now I want to give one Javascript example on this principle:
                     // handle error
                 }
                 
-            } else ('seller') {
+            } else if ('seller') {
                // do somthing with seller
             } else {
                 // do somthing with admin
