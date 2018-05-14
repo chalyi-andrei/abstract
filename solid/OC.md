@@ -126,3 +126,6 @@ After that, our Roles class will contain all the roles. The call to a particular
 ```
 
 Thus, if you need to change the role or add a new one, we will not need to change the class SignUp.
+
+[ Prev (Single Responsibility Principle)](./SR.md)
+[ Next (Liskov’s Substitution Principle)](./LS.md)
