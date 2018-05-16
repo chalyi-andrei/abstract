@@ -56,4 +56,4 @@ In this case, if we use this class to receive news or some data, our application
 
 
 [ Prev (Open Closed Principle)](./OC.md)
-[ Next (Interface segregation Principle)](./LS.md)
+[ Next (Interface segregation Principle)](./IS.md)
