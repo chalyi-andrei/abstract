@@ -1,3 +1,3 @@
-## Liskov’s Interface Segregation Principle
+## Interface segregation Principle
 
 some information...
